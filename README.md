@@ -4,28 +4,31 @@ My journey practicing algorithms and data structures through LeetCode problems, 
 
 ## 📊 Progress
 
-**Total Problems Solved:** 1  
+**Total Problems Solved:** 2  
 **Languages:** Java, Python
 
 ### By Difficulty
-- Easy: 1
-- Medium: 0  
+- Easy: 2
+- Medium: 0
 - Hard: 0
 
 ### By Pattern
 - **Binary Search:** 1/TBD
+- **Arrays**: 1/TBD
 
 ## 📁 Repository Structure
 
 ```
 leetcode-solutions/
 ├── binary-search/          # Binary search problems and variations
+├── array-problems/         # Array problems and variations
 └── README.md              # This file
 ```
 
 ## 🎯 Current Focus
 
 - **Binary Search Study Plan** - Building strong fundamentals in search algorithms
+- **Daily LeetCode problems** - For some variety, I'm doing the daily LeetCode problem
 
 ## 💡 Notes
 
