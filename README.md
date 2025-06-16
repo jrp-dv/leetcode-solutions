@@ -4,16 +4,16 @@ My journey practicing algorithms and data structures through LeetCode problems, 
 
 ## 📊 Progress
 
-**Total Problems Solved:** 3 
+**Total Problems Solved:** 4
 **Languages:** Java, Python
 
 ### By Difficulty
-- Easy: 3
+- Easy: 4
 - Medium: 0
 - Hard: 0
 
 ### By Pattern
-- **Binary Search:** 2/TBD
+- **Binary Search:** 4/TBD
 - **Arrays**: 1/TBD
 
 ## 📁 Repository Structure
