@@ -1,3 +1,10 @@
+"""
+118. Pascal's Triangle
+https://leetcode.com/problems/pascals-triangle/description/
+Time Complexity: O(n^2), being n the number of rows. Space Complexity: O(n^2)
+Difficulty: Easy
+"""
+
 class Solution(object):
     def generate(self, numRows):
         """
