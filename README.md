@@ -8,13 +8,13 @@ My journey practicing algorithms and data structures through LeetCode problems, 
 **Languages:** Java, Python
 
 ### By Difficulty
-- Easy: 4
+- Easy: 5
 - Medium: 0
 - Hard: 0
 
 ### By Pattern
-- **Binary Search:** 4/TBD
-- **Arrays**: 1/TBD
+- **Binary Search:** 3/TBD
+- **Arrays**: 2/TBD
 
 ## 📁 Repository Structure
 
@@ -37,4 +37,4 @@ leetcode-solutions/
 - Following LeetCode study plans for structured learning
 
 ---
-*Last updated: 16th June 2025*
+*Last updated: 1st August 2025*
