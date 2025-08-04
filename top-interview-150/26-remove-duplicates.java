@@ -1,7 +1,7 @@
 /**
  * 26. Remove Duplicates from Sorted Array
  * https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150
- * Time: O(n, Space: O(1)
+ * Time: O(n), Space: O(1)
  * Difficulty: Easy
  */
 
