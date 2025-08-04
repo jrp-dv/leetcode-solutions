@@ -4,11 +4,11 @@ My journey practicing algorithms and data structures through LeetCode problems, 
 
 ## 📊 Progress
 
-**Total Problems Solved:** 11
+**Total Problems Solved:** 12
 **Languages:** Java, Python
 
 ### By Difficulty
-- Easy: 9
+- Easy: 11
 - Medium: 1
 - Hard: 0
 
@@ -34,4 +34,4 @@ leetcode-solutions/
 - Following LeetCode study plans for structured learning
 
 ---
-*Last updated: 4th August 2025*
+*Last updated: 5th August 2025*
