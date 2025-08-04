@@ -4,7 +4,7 @@ My journey practicing algorithms and data structures through LeetCode problems, 
 
 ## 📊 Progress
 
-**Total Problems Solved:** 10
+**Total Problems Solved:** 11
 **Languages:** Java, Python
 
 ### By Difficulty
